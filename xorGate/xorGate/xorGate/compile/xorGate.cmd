@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\xorGate\library.cfg"  -j "c:\My_Designs\xorGate\xorGate\projlib.cfg"  -d "c:\My_Designs\xorGate\xorGate\compile\"  -work xorGate -dbg -e 100 -o "c:\My_Designs\xorGate\xorGate\src\xorGate.vhd" 

@@ -1,0 +1,23 @@
+V 000049 55 734           1635726351529 XnorGate
+(_unit VHDL (xnorgate 0 28 (xnorgate 0 38 ))
+  (_version v35)
+  (_time 1635726351529 2021.11.01 03:55:51)
+  (_source (\./src/xnorGate.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1635726351522)
+    (_use )
+  )
+  (_object
+    (_port (_internal input0 ~extSTD.STANDARD.BIT 0 30 (_entity (_in ))))
+    (_port (_internal input1 ~extSTD.STANDARD.BIT 0 31 (_entity (_in ))))
+    (_port (_internal output0 ~extSTD.STANDARD.BIT 0 32 (_entity (_out ))))
+    (_process
+      (line__42(_architecture 0 0 42 (_assignment (_simple)(_target(2))(_sensitivity(0)(1)))))
+    )
+    (_type (_external ~extSTD.STANDARD.BIT (std STANDARD BIT)))
+  )
+  (_model . XnorGate 1 -1
+  )
+)

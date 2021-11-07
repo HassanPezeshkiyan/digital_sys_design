@@ -1,0 +1,12 @@
+[Version]
+Version=7.1
+[Designs]
+xorgate=.\xorGate\xorGate.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+xorgate=1

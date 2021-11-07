@@ -1,0 +1,6 @@
+MESSAGE "File: D:\Uni-Project\digital_sys_design\norGate\norGate\norGate\src\norGate.vhd" 
+MESSAGE "Compile Entity "NorrGate"" 
+MESSAGE "Compile Architecture "NorGate" of Entity "NorrGate"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   NorrGate" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]" 

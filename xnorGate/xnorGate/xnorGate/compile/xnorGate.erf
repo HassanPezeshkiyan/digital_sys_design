@@ -1,0 +1,6 @@
+MESSAGE "File: D:\Uni-Project\digital_sys_design\xnorGate\xnorGate\xnorGate\src\xnorGate.vhd" 
+MESSAGE "Compile Entity "XnorGate"" 
+MESSAGE "Compile Architecture "XnorGate" of Entity "XnorGate"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   XnorGate" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.9 [s]" 

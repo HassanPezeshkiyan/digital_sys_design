@@ -1,0 +1,6 @@
+MESSAGE "File: D:\Uni-Project\digital_sys_design\nandGate\nandGate\nandGate\src\nandGate.vhd" 
+MESSAGE "Compile Entity "NandGate"" 
+MESSAGE "Compile Architecture "NandGate" of Entity "NandGate"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   NandGate" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.6 [s]" 

@@ -1,0 +1,1 @@
+-w -s "D:\Uni-Project\digital_sys_design\norGate\norGate\library.cfg"  -j "D:\Uni-Project\digital_sys_design\norGate\norGate\norGate\projlib.cfg"  -d "D:\Uni-Project\digital_sys_design\norGate\norGate\norGate\compile\"  -work norGate -dbg -e 100 -o "D:\Uni-Project\digital_sys_design\norGate\norGate\norGate\src\norGate.vhd" 

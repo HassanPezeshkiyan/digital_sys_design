@@ -1,0 +1,36 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=OrGate
+
+[Library]
+OrGate=.\OrGate.lib
+
+[$LibMap$]
+OrGate=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[Files]
+/orGate.vhd=-1
+/Waveform Editor 1.awf=-1
+
+[Files.Data]
+.\src\orGate.vhd=VHDL Source Code
+.\src\Waveform Editor 1.awf=Waveform File
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=orgate|orgate|0 
+ShowHide=ShowTopLevel
+Selected=

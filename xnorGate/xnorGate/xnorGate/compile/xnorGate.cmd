@@ -1,0 +1,1 @@
+-w -s "D:\Uni-Project\digital_sys_design\xnorGate\xnorGate\library.cfg"  -j "D:\Uni-Project\digital_sys_design\xnorGate\xnorGate\xnorGate\projlib.cfg"  -d "D:\Uni-Project\digital_sys_design\xnorGate\xnorGate\xnorGate\compile\"  -work xnorGate -dbg -e 100 -o "D:\Uni-Project\digital_sys_design\xnorGate\xnorGate\xnorGate\src\xnorGate.vhd" 

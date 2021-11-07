@@ -1,0 +1,6 @@
+MESSAGE "File: d:\Uni-Project\digital_sys_design\signalGate_ex\signal\signalGate\src\signalGate.vhd" 
+MESSAGE "Compile Entity "SignalGate"" 
+MESSAGE "Compile Architecture "SignalGate" of Entity "SignalGate"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   SignalGate" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

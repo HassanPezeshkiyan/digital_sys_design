@@ -1,0 +1,6 @@
+MESSAGE "File: c:\My_Designs\xorGate\xorGate\src\xorGate.vhd" 
+MESSAGE "Compile Entity "XorGate"" 
+MESSAGE "Compile Architecture "XorGate" of Entity "XorGate"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   XorGate" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]" 

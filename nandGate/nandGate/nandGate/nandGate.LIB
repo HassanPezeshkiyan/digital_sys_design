@@ -1,0 +1,23 @@
+timestamp=1635723321526
+
+[nandgate]
+A/nandgate=A/NandGate 21|./src/nandGate.vhd|38|1*0
+B/nandgate=3*0
+H/nandgate=0*283
+M=11|0|v35|1635723321480|./src/nandGate.vhd|0*0*0x4ac847477824916cb610a836fb5b19efdc3bd9b3|0*215*0xab87650576a395126dc296abb9b0e065
+M/nandgate=M/NandGate 21|0|v35|1635723321479|./src/nandGate.vhd|0*374*0x51aa92b669cc658723fe43c3f819bee26a799d75|0*538*0xab87650576a395126dc296abb9b0e065
+R=./src/nandGate.vhd|28
+V=0*1006
+
+[~A]
+ModifyID=5
+Version=73
+
+[~MFT]
+0=7|0nandGate.mgf|1006|0
+1=0|1nandGate.mgf|0|0
+3=0|3nandGate.mgf|0|0
+
+[~U]
+nandgate=NandGate 11|0*618|0*760
+

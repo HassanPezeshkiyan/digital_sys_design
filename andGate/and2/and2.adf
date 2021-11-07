@@ -1,0 +1,36 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=and2
+
+[Library]
+and2=.\and2.lib
+
+[$LibMap$]
+and2=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[Files]
+/and2.vhd=-1
+/Waveform Editor 2.awf=-1
+
+[Files.Data]
+.\src\and2.vhd=VHDL Source Code
+.\src\Waveform Editor 2.awf=Waveform File
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=and2|arch|0 
+ShowHide=ShowTopLevel
+Selected=

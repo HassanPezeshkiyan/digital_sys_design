@@ -1,0 +1,23 @@
+V 000045 55 702           1635139183245 arch
+(_unit VHDL (and2 0 28 (arch 0 38 ))
+  (_version v35)
+  (_time 1635139183244 2021.10.25 08:49:43)
+  (_source (\./src/and2.vhd\))
+  (_use (std(standard))(ieee(std_logic_1164)))
+  (_parameters dbg )
+  (_entity
+    (_time 1635139183242)
+    (_use )
+  )
+  (_object
+    (_port (_internal x ~extSTD.STANDARD.BIT 0 30 (_entity (_in ))))
+    (_port (_internal y ~extSTD.STANDARD.BIT 0 31 (_entity (_in ))))
+    (_port (_internal z ~extSTD.STANDARD.BIT 0 32 (_entity (_out ))))
+    (_process
+      (line__42(_architecture 0 0 42 (_assignment (_simple)(_target(2))(_sensitivity(1)(0)))))
+    )
+    (_type (_external ~extSTD.STANDARD.BIT (std STANDARD BIT)))
+  )
+  (_model . arch 1 -1
+  )
+)

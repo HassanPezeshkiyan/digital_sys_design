@@ -1,0 +1,35 @@
+# Design: Design xorGate already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder $DSN/src/xorgate.vhd
+# Compile with File Reorder...
+# File: c:\My_Designs\xorGate\xorGate\src\xorGate.vhd
+# Compile Entity "XorGate"
+# Compile Architecture "XorGate" of Entity "XorGate"
+# Top-Level unit detected
+# Entity  =>   XorGate
+# Compile success 0 Errors 0 Warnings  Analysis time :  1.0 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  xorgate xorgate
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1610 kB (elbread=1031 elab2=297 kernel=281 sdf=0)
+#  3:48 AM, Monday, November 1, 2021
+#  Simulation has been initialized
+#  Selected Top-Level: xorgate (xorgate)
+run
+endsim
+# KERNEL: stopped at time: 32037700 ns
+#  Simulation has been stopped

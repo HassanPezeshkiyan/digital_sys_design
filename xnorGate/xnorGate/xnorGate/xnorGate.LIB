@@ -1,0 +1,23 @@
+timestamp=1635726352381
+
+[xnorgate]
+A/xnorgate=A/XnorGate 21|./src/xnorGate.vhd|38|1*0
+B/xnorgate=3*0
+H/xnorgate=0*283
+M=11|0|v35|1635726352327|./src/xnorGate.vhd|0*0*0xf740d38bb6e5ab9917ad1d98b756df139b9ce2fc|0*215*0xab87650576a395126dc296abb9b0e065
+M/xnorgate=M/XnorGate 21|0|v35|1635726352326|./src/xnorGate.vhd|0*374*0x91a9ef7ca4b1f42cf1ae2b7a04f14ab6b9b31e99|0*538*0xab87650576a395126dc296abb9b0e065
+R=./src/xnorGate.vhd|28
+V=0*1006
+
+[~A]
+ModifyID=5
+Version=73
+
+[~MFT]
+0=7|0xnorGate.mgf|1006|0
+1=0|1xnorGate.mgf|0|0
+3=0|3xnorGate.mgf|0|0
+
+[~U]
+xnorgate=XnorGate 11|0*618|0*760
+

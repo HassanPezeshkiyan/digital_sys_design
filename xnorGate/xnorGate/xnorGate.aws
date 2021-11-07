@@ -1,0 +1,12 @@
+[Version]
+Version=7.1
+[Designs]
+xnorgate=.\xnorGate\xnorGate.adf
+[Browser]
+sort=order
+mode=asc
+[Order]
+order=1
+macro=
+[Expand]
+xnorgate=1

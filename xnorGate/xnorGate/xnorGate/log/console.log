@@ -1,0 +1,169 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Design: Error: There are no modules selected for elaboration.
+# Design: Error: Elaboration failed
+# Design: Design xnorGate already active.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Design: Error: There are no modules selected for elaboration.
+# Design: Error: Elaboration failed
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  xnorgate xnorgate
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1610 kB (elbread=1031 elab2=297 kernel=281 sdf=0)
+#  9:54 PM, Sunday, November 7, 2021
+#  Simulation has been initialized
+#  Selected Top-Level: xnorgate (xnorgate)
+run
+run
+endsim
+# KERNEL: stopped at time: 419529600 ns
+#  Simulation has been stopped
+asim -advdataflow  xnorgate xnorgate
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.2 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1610 kB (elbread=1031 elab2=297 kernel=281 sdf=0)
+#  9:55 PM, Sunday, November 7, 2021
+#  Simulation has been initialized
+#  Selected Top-Level: xnorgate (xnorgate)
+run
+endsim
+# KERNEL: stopped at time: 82859850 ns
+#  Simulation has been stopped
+# Design: Error: There are no modules selected for elaboration.
+# Design: Error: Elaboration failed
+# Design: Design xnorGate already active.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  xnorgate xnorgate
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1610 kB (elbread=1031 elab2=297 kernel=281 sdf=0)
+#  9:57 PM, Sunday, November 7, 2021
+#  Simulation has been initialized
+#  Selected Top-Level: xnorgate (xnorgate)
+run
+endsim
+# KERNEL: stopped at delta: 0 at time 334623850 ns.
+#  Simulation has been stopped
+asim -advdataflow  xnorgate xnorgate
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1610 kB (elbread=1031 elab2=297 kernel=281 sdf=0)
+#  9:57 PM, Sunday, November 7, 2021
+#  Simulation has been initialized
+#  Selected Top-Level: xnorgate (xnorgate)
+run
+endsim
+# KERNEL: stopped at time: 83326300 ns
+#  Simulation has been stopped
+asim -advdataflow  xnorgate xnorgate
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1610 kB (elbread=1031 elab2=297 kernel=281 sdf=0)
+#  9:58 PM, Sunday, November 7, 2021
+#  Simulation has been initialized
+#  Selected Top-Level: xnorgate (xnorgate)
+run
+# KERNEL: stopped at time: 195170 us
+#  Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  xnorgate xnorgate
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1610 kB (elbread=1031 elab2=297 kernel=281 sdf=0)
+#  9:58 PM, Sunday, November 7, 2021
+#  Simulation has been initialized
+#  Selected Top-Level: xnorgate (xnorgate)
+run
+endsim
+# KERNEL: stopped at time: 281063300 ns
+#  Simulation has been stopped
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  xnorgate xnorgate
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1610 kB (elbread=1031 elab2=297 kernel=281 sdf=0)
+#  9:59 PM, Sunday, November 7, 2021
+#  Simulation has been initialized
+#  Selected Top-Level: xnorgate (xnorgate)
+run
+endsim
+# KERNEL: stopped at time: 72046700 ns
+#  Simulation has been stopped

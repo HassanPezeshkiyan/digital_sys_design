@@ -1,0 +1,23 @@
+timestamp=1635725893869
+
+[xorgate]
+A/xorgate=A/XorGate 21|./src/xorGate.vhd|38|1*0
+B/xorgate=3*0
+H/xorgate=0*277
+M=11|0|v35|1635725893772|./src/xorGate.vhd|0*0*0xc1505e4e4738ba54cf558416ec04941ae0ae6480|0*211*0xab87650576a395126dc296abb9b0e065
+M/xorgate=M/XorGate 21|0|v35|1635725893771|./src/xorGate.vhd|0*366*0x8df8cfa9637db69112d3c772d83fa419efa922f7|0*524*0xab87650576a395126dc296abb9b0e065
+R=./src/xorGate.vhd|28
+V=0*984
+
+[~A]
+ModifyID=5
+Version=73
+
+[~MFT]
+0=7|0xorGate.mgf|984|0
+1=0|1xorGate.mgf|0|0
+3=0|3xorGate.mgf|0|0
+
+[~U]
+xorgate=XorGate 11|0*601|0*740
+

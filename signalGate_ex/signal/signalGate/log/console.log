@@ -1,0 +1,19 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom $DSN/src/signalGate.vhd
+# Compile...
+# File: d:\Uni-Project\digital_sys_design\signalGate_ex\signal\signalGate\src\signalGate.vhd
+# Compile Entity "SignalGate"
+# Error: COMP96_0015: signalGate.vhd : (31, 9): ':' expected.
+# Error: COMP96_0018: signalGate.vhd : (31, 9): Identifier expected.
+# Error: COMP96_0016: signalGate.vhd : (31, 10): Design unit declaration expected.
+# Compile Architecture "SignalGate" of Entity "SignalGate"
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -reorder $DSN/src/signalgate.vhd
+# Compile with File Reorder...
+# File: d:\Uni-Project\digital_sys_design\signalGate_ex\signal\signalGate\src\signalGate.vhd
+# Compile Entity "SignalGate"
+# Compile Architecture "SignalGate" of Entity "SignalGate"
+# Top-Level unit detected
+# Entity  =>   SignalGate
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]

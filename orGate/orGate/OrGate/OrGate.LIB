@@ -1,0 +1,23 @@
+timestamp=1635722912104
+
+[orgate]
+A/orgate=A/OrGate 21|./src/orgate.vhd|38|1*0
+B/orgate=3*0
+H/orgate=0*1175
+M=11|0|v35|1635722912019|./src/orgate.vhd|0*904*0x949d6457b3b83d12db2a7e958ed435b4f8ef40d3|0*1111*0xab87650576a395126dc296abb9b0e065
+M/orgate=M/OrGate 21|0|v35|1635722912018|./src/orgate.vhd|0*1262*0xd600d6f82a208c078616dc3ba56d4ff1a3151952|0*1414*0xab87650576a395126dc296abb9b0e065
+R=./src/orgate.vhd|28
+V=0*1865
+
+[~A]
+ModifyID=10
+Version=73
+
+[~MFT]
+0=15|0OrGate.mgf|1865|630
+1=0|1OrGate.mgf|0|0
+3=0|3OrGate.mgf|0|0
+
+[~U]
+orgate=11|0*1488|0*1623
+

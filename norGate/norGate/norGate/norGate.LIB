@@ -1,0 +1,23 @@
+timestamp=1635725359734
+
+[norrgate]
+A/norgate=A/NorGate 21|./src/norGate.vhd|38|1*0
+B/norgate=3*0
+H/norgate=0*281
+M=11|0|v35|1635725359667|./src/norGate.vhd|0*0*0xb900feff8983048f743f55f63fc8a16ef9f9448c|0*214*0xab87650576a395126dc296abb9b0e065
+M/norgate=M/NorGate 21|0|v35|1635725359666|./src/norGate.vhd|0*370*0x2db392731f2b4ee46c22b99406be579d5db44769|0*530*0xab87650576a395126dc296abb9b0e065
+R=./src/norGate.vhd|28
+V=0*996
+
+[~A]
+ModifyID=5
+Version=73
+
+[~MFT]
+0=7|0norGate.mgf|996|0
+1=0|1norGate.mgf|0|0
+3=0|3norGate.mgf|0|0
+
+[~U]
+norrgate=NorrGate 11|0*608|0*750
+

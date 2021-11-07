@@ -1,0 +1,36 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=xorGate
+
+[Library]
+xorGate=.\xorGate.lib
+
+[$LibMap$]
+xorGate=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[Files]
+/xorGate.vhd=-1
+/Waveform Editor 1.awf=-1
+
+[Files.Data]
+.\src\xorGate.vhd=VHDL Source Code
+.\src\Waveform Editor 1.awf=Waveform File
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=xorgate|xorgate|0 
+ShowHide=ShowTopLevel
+Selected=

@@ -1,0 +1,23 @@
+timestamp=1635747264882
+
+[signalgate]
+A/signalgate=A/SignalGate 21|./src/signalGate.vhd|39|1*2442
+B/signalgate=3*0
+H/signalgate=0*2234
+M=11|0|v35|1635744787106|./src/signalGate.vhd|0*0*0x822265da918aa7ee73c8d1c8de59e9fdd9c2a33f|0*244*0xab87650576a395126dc296abb9b0e065
+M/signalgate=M/SignalGate 21|0|v35|1635747264800|./src/signalGate.vhd|0*2441*0x3a16d4d7200efb84f2f349de8f3db6e0f4ccf723|0*2693*0xab87650576a395126dc296abb9b0e065
+R=./src/signalGate.vhd|28
+V=0*1302
+
+[~A]
+ModifyID=15
+Version=73
+
+[~MFT]
+0=15|0signalGate.mgf|2693|414
+1=4|1signalGate.mgf|2442|2442
+3=0|3signalGate.mgf|0|0
+
+[~U]
+signalgate=SignalGate 11|0*861|0*1027
+

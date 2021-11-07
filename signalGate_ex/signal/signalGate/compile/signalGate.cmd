@@ -1,0 +1,1 @@
+-w -s "d:\Uni-Project\digital_sys_design\signalGate_ex\signal\library.cfg"  -j "d:\Uni-Project\digital_sys_design\signalGate_ex\signal\signalGate\projlib.cfg"  -d "d:\Uni-Project\digital_sys_design\signalGate_ex\signal\signalGate\compile\"  -work signalGate -dbg -e 100 -o "d:\Uni-Project\digital_sys_design\signalGate_ex\signal\signalGate\src\signalGate.vhd" 

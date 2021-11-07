@@ -1,0 +1,1 @@
+-w -s "D:\Uni-Project\digital_sys_design\andGate\library.cfg"  -j "D:\Uni-Project\digital_sys_design\andGate\and2\projlib.cfg"  -d "D:\Uni-Project\digital_sys_design\andGate\and2\compile\"  -work and2 -dbg -e 100 -o "D:\Uni-Project\digital_sys_design\andGate\and2\src\and2.vhd" 
